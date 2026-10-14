@@ -1,0 +1,5 @@
+Escopo:
+Estratégia:
+Recursos:
+Cronograma:
+Ferramentas utilizadas na operação: 
