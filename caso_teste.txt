@@ -1,0 +1,5 @@
+Elemento: Caso de Teste 4(CT04)
+Objetivo: Validar a trava para que não seja permitido valor negativo
+Contexto: Aplicativo rodando no meu navegador
+Ação Executada: 1. Inserir o valor -7 na caixa de "Valor do Lanche". 2. Clicar no botão "Confirmar pedido"
+Saída Esperada: Ser impedido de digitar o - pois a regra de negócio não permite valor negativo. 
